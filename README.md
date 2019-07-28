@@ -6,6 +6,8 @@
 2. Create a file as [AN2].json in `/locales` (e.g. `/locales/en.json` for English)
 3. Copy everything from en.json and replace everything after the colon with the translation of what's in front.
 
+If you don't want to fork/clone the repository you can also send us the json file through discord.
+
 ### Merging
 You can create a pull request by forking this repository.
 Alternatively you can send the updated texts/json files to @ZaskV on discord (https://discord.gg/ZQ2Zruv)
